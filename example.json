@@ -1,0 +1,49 @@
+{
+  "searches": {
+    "keyword": "best hairdryer",
+    "urls": ["url 1", "url 2"],
+    "timestamp": 12345
+  },
+  "results": {
+    "url 1": {
+      "wordcount": 1200,
+      "products": ["product1, product2"],
+      "type": "discussion",
+      "meta": {
+        "title": "Title1",
+        "description": "Description1"
+      },
+      "timestamp": 12345
+    },
+    "url 2": {
+      "wordcount": 950,
+      "products": ["product2, product3"],
+      "type": "affiliate article",
+      "meta": {
+        "title": "Title2",
+        "description": "Description2"
+      },
+      "timestamp": 12345
+    }
+  },
+  "products": {
+    "product 1": {
+      "title": "Product Title 1",
+      "price": "14.99",
+      "image": "image url 1",
+      "timestamp": 12345
+    },
+    "product 2": {
+      "title": "Product Title 2",
+      "price": "14.99",
+      "image": "image url 2",
+      "timestamp": 12345
+    },
+    "product 3": {
+      "title": "Product Title 3",
+      "price": "14.99",
+      "image": "image url 3",
+      "timestamp": 12345
+    }
+  }
+}
