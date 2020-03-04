@@ -1,49 +1,117 @@
 {
-  "searches": {
-    "keyword": "best hairdryer",
-    "urls": ["url 1", "url 2"],
-    "timestamp": 12345
-  },
-  "results": {
-    "url 1": {
-      "wordcount": 1200,
-      "products": ["product1, product2"],
-      "type": "discussion",
-      "meta": {
-        "title": "Title1",
-        "description": "Description1"
-      },
-      "timestamp": 12345
+        "url": "https://www.verywellfit.com/best-shaker-bottles-4158054",
+        "title": "The 6 Best Shaker Bottles of 2020",
+        "asins": [
+            "B00J2QLCKK",
+            "B01D6KDKD4",
+            "B00MVMCUK8",
+            "B00LX6VHNE",
+            "B074NQ146M",
+            "B00JVUO2GI"
+        ],
+        "timestamp": 1583359030,
+        "_id": {
+            "$oid": "5e6024365368f3b31f548254"
+        }
     },
-    "url 2": {
-      "wordcount": 950,
-      "products": ["product2, product3"],
-      "type": "affiliate article",
-      "meta": {
-        "title": "Title2",
-        "description": "Description2"
-      },
-      "timestamp": 12345
+    {
+        "url": "https://www.bestproducts.com/fitness/health/g440/shaker-bottles-for-protein-shakes/",
+        "title": "12 Best Protein Shaker Bottles for 2020",
+        "asins": [
+            "B079JXCCGG",
+            "B078CYWCTN",
+            "B00M1VN1MA",
+            "B073QWY1JD",
+            "B01LXRWZNI",
+            "B07GC9N5N5",
+            "B07NZ8HHD5",
+            "B01N5OMV1H",
+            "B01LYI8EZQ",
+            "B078KCYLZF",
+            "B07JDLGXJB",
+            "B011WPCU4U"
+        ],
+        "timestamp": 1583359031,
+        "_id": {
+            "$oid": "5e6024375368f3b31f548255"
+        }
+    },
+    {
+        "url": "https://garagegympower.com/best-protein-shaker-bottles/",
+        "title": "TOP 19 Best Protein Shaker Bottles for 2020 Reviewed",
+        "asins": [
+            "B07FTZ6CN2",
+            "B00J2QLCKK",
+            "B016XWEL80",
+            "B00IOO2YSK",
+            "B07JDL8QNN",
+            "B00JVWA0GC",
+            "B01N7IAL0W",
+            "B01LXCJVEW",
+            "B01D6KDK52",
+            "B01M0DP9IV",
+            "B004I10TDK",
+            "B074CW3WKQ",
+            "B07GKSDP8X",
+            "B07BMGYV7Z",
+            "B00VZ12C1I",
+            "B00QU2F4F8",
+            "B011WPCU4U",
+            "B01NAIZBA2"
+        ],
+        "timestamp": 1583359031,
+        "_id": {
+            "$oid": "5e6024375368f3b31f548256"
+        }
+    },
+    {
+        "url": "https://www.blenderbottle.com/",
+        "title": "Best Shaker Cups & Shaker Bottles",
+        "asins": [],
+        "timestamp": 1583359032,
+        "_id": {
+            "$oid": "5e6024385368f3b31f548257"
+        }
+    },
+    {
+        "url": "https://fightingreport.com/best-shaker-bottles-reviewed/",
+        "title": "10 Best Shaker Bottles Reviewed & Rated in 2020",
+        "asins": [],
+        "timestamp": 1583359033,
+        "_id": {
+            "$oid": "5e6024395368f3b31f548258"
+        }
+    },
+    {
+        "url": "https://www.rizknows.com/buyer-guides/best-shaker-bottle-blender-bottle/",
+        "title": "Blender Bottles for Protein Shakes (VIDEO)",
+        "asins": [],
+        "timestamp": 1583359033,
+        "_id": {
+            "$oid": "5e6024395368f3b31f548259"
+        }
+    },
+    {
+        "url": "https://www.amazon.com/slp/best-shaker-cup/7p7dnf2o44p732q",
+        "title": "Best Shaker Cup: Amazon.com",
+        "asins": [
+            "youraccoun",
+            "navigation",
+            "B07984JN3L",
+            "B071YC7MRM",
+            "B076LKSYYB",
+            "B07CBJQS16",
+            "B0763XLMM9",
+            "B071DC4W85",
+            "bestseller",
+            "B01LXCJVEW",
+            "B07G7D3DPX",
+            "B06ZZ9414K",
+            "B07BK78T4F",
+            "redirectio"
+        ],
+        "timestamp": 1583359034,
+        "_id": {
+            "$oid": "5e60243a5368f3b31f54825a"
+        }
     }
-  },
-  "products": {
-    "product 1": {
-      "title": "Product Title 1",
-      "price": "14.99",
-      "image": "image url 1",
-      "timestamp": 12345
-    },
-    "product 2": {
-      "title": "Product Title 2",
-      "price": "14.99",
-      "image": "image url 2",
-      "timestamp": 12345
-    },
-    "product 3": {
-      "title": "Product Title 3",
-      "price": "14.99",
-      "image": "image url 3",
-      "timestamp": 12345
-    }
-  }
-}
